@@ -1,0 +1,11 @@
+C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\Race\bin\Debug\net8.0-windows\Race.deps.json
+C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\Race\bin\Debug\net8.0-windows\Race.dll
+C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\Race\bin\Debug\net8.0-windows\Race.pdb
+C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\Race\obj\Debug\net8.0-windows\Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\Race\obj\Debug\net8.0-windows\Race.AssemblyInfoInputs.cache
+C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\Race\obj\Debug\net8.0-windows\Race.AssemblyInfo.cs
+C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\Race\obj\Debug\net8.0-windows\Race.csproj.CoreCompileInputs.cache
+C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\Race\obj\Debug\net8.0-windows\Race.dll
+C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\Race\obj\Debug\net8.0-windows\refint\Race.dll
+C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\Race\obj\Debug\net8.0-windows\Race.pdb
+C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\Race\obj\Debug\net8.0-windows\ref\Race.dll
