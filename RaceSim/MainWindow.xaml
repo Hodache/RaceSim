@@ -1,0 +1,22 @@
+﻿<Window x:Class="RaceSim.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RaceSim"
+        mc:Ignorable="d"
+        Title="Симулятор гонок" Height="168" Width="411" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <ListBox x:Name="vehicleChoiceList" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="164,10,10,10" SelectionMode="Multiple" SelectionChanged="vehicleChoiceList_SelectionChanged"/>
+        <ComboBox x:Name="racesChoiceBox" HorizontalAlignment="Left" Margin="20,10,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="startBtn" Content="Начать гонку
+" HorizontalAlignment="Left" Margin="40,99,0,0" VerticalAlignment="Top" AutomationProperties.Name=""/>
+        <TextBox HorizontalAlignment="Left" Margin="20,56,0,0" TextWrapping="Wrap" Text="Дистанция трассы" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</Window>
