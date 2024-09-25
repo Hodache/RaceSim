@@ -19,3 +19,5 @@ C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Ла�
 C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\RaceSim\obj\Debug\net8.0-windows\ref\RaceSim.dll
 C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\RaceSim\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\RaceSim\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\RaceSim\obj\Debug\net8.0-windows\ResultsWindow.g.cs
+C:\Users\hodac\OneDrive\Рабочий стол\Мага 1 курс\ООП\Лаб 1\RaceSim\obj\Debug\net8.0-windows\ResultsWindow.baml

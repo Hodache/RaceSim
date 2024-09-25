@@ -44,17 +44,5 @@ namespace RaceSim.Races
         }
 
         public abstract bool VehicleMathcesRace(Vehicle vehicle);
-
-        public class RaceResult
-        {
-            public Vehicle vehicle;
-            public float time;
-
-            public RaceResult(Vehicle vehicle, float time)
-            {
-                this.vehicle = vehicle;
-                this.time = time;
-            }
-        }
     }
 }

@@ -23,15 +23,14 @@ namespace RaceSim
     /// </summary>
     public partial class MainWindow : Window
     {
-        List<Vehicle> vehiclesList;
-        List<Race> races;
-        Race race;
+        List<Race> races = new List<Race> {
+                new CommonRace(),
+                new GroundRace(),
+                new AirRace()
+            };
+        Race currentRace;
 
-        public MainWindow()
-        {
-            InitializeComponent();
-
-            vehiclesList = new List<Vehicle> {
+        List<Vehicle> vehiclesList = new List<Vehicle> {
                 new YagaStupa(),
                 new Broom(),
                 new RunningBoots(),
@@ -41,20 +40,54 @@ namespace RaceSim
                 new Centaur(),
                 new FlyingShip()
             };
-            vehicleChoiceList.ItemsSource = vehiclesList;
+        List<Vehicle> possibleVehicles;
 
-            races = new List<Race>
-            {
-                new CommonRace(),
-                new GroundRace(),
-                new AirRace()
-            };
-            racesChoiceBox.ItemsSource = races;
-        }
-
-        private void vehicleChoiceList_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        public MainWindow()
         {
-            
+            InitializeComponent();
+
+            racesChoiceBox.ItemsSource = races;
+            racesChoiceBox.SelectedIndex = 0;
         }
-    }
+
+        private void racesChoiceBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            currentRace = racesChoiceBox.SelectedItem as Race;
+            try
+            {
+                vehicleChoiceList.ItemsSource = getPossibleVehicles();
+            }
+            catch (NullReferenceException)
+            {
+                vehicleChoiceList.ItemsSource = new List<Vehicle>();
+            }
+        }
+
+        private void startBtn_Click(object sender, RoutedEventArgs e)
+        {
+            float raceDistance = float.Parse(distanceField.Text);
+
+            List<RaceResult> raceResults = new();
+            foreach (Vehicle participant in vehicleChoiceList.SelectedItems)
+            {
+                RaceResult result = new RaceResult(participant, (float)Math.Round(participant.GetRideTime(raceDistance), 2));
+                raceResults.Add(result);
+            }
+
+            raceResults.Sort((result1, result2) => result1.time.CompareTo(result2.time));
+            ShowRaceResults(raceResults);
+        }
+
+
+        private List<Vehicle> getPossibleVehicles()
+        {
+            return vehiclesList.Where(vehicle => currentRace.VehicleMathcesRace(vehicle)).ToList();
+        }
+
+        private void ShowRaceResults(List<RaceResult> raceResults)
+        {
+            ResultsWindow resultsWindow = new ResultsWindow(raceResults);
+            resultsWindow.Show();
+        }
+    }   
 }

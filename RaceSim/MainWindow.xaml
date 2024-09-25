@@ -13,10 +13,11 @@
         <Grid.RowDefinitions>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <ListBox x:Name="vehicleChoiceList" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="164,10,10,10" SelectionMode="Multiple" SelectionChanged="vehicleChoiceList_SelectionChanged"/>
-        <ComboBox x:Name="racesChoiceBox" HorizontalAlignment="Left" Margin="20,10,0,0" VerticalAlignment="Top" Width="120"/>
+        <ListBox x:Name="vehicleChoiceList" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="164,10,10,10" SelectionMode="Multiple"/>
+        <ComboBox x:Name="racesChoiceBox" HorizontalAlignment="Left" Margin="20,10,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="racesChoiceBox_SelectionChanged"/>
         <Button x:Name="startBtn" Content="Начать гонку
-" HorizontalAlignment="Left" Margin="40,99,0,0" VerticalAlignment="Top" AutomationProperties.Name=""/>
-        <TextBox HorizontalAlignment="Left" Margin="20,56,0,0" TextWrapping="Wrap" Text="Дистанция трассы" VerticalAlignment="Top" Width="120"/>
+" HorizontalAlignment="Left" Margin="40,99,0,0" VerticalAlignment="Top" AutomationProperties.Name="" Click="startBtn_Click"/>
+        <TextBox x:Name="distanceField" HorizontalAlignment="Left" Margin="20,62,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Left" Margin="20,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"><Run Language="ru-ru" Text="Дистанция"/></TextBlock>
     </Grid>
 </Window>
