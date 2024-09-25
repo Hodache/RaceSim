@@ -11,7 +11,8 @@
 
         public override float GetAcceleration(float distanceLeft)
         {
-            return 0.05f * distanceLeft;
+            
+            return Math.Min(0.05f * distanceLeft, 6.5f);
         }
     }
 }

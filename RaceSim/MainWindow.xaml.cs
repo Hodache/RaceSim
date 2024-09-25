@@ -63,9 +63,30 @@ namespace RaceSim
             }
         }
 
+        private List<Vehicle> getPossibleVehicles()
+        {
+            return vehiclesList.Where(vehicle => currentRace.VehicleMathcesRace(vehicle)).ToList();
+        }
+
         private void startBtn_Click(object sender, RoutedEventArgs e)
         {
-            float raceDistance = float.Parse(distanceField.Text);
+            float raceDistance = -1;
+            try
+            {
+                raceDistance = float.Parse(distanceField.Text);
+            }
+            catch (Exception)
+            {
+                MessageBox.Show("Дистанция должна быть числом");
+                return;
+            }
+
+            if (raceDistance <= 0)
+            {
+                MessageBox.Show("Дистанция должна быть положительным числом");
+                return;
+            }
+
 
             List<RaceResult> raceResults = new();
             foreach (Vehicle participant in vehicleChoiceList.SelectedItems)
@@ -78,11 +99,6 @@ namespace RaceSim
             ShowRaceResults(raceResults);
         }
 
-
-        private List<Vehicle> getPossibleVehicles()
-        {
-            return vehiclesList.Where(vehicle => currentRace.VehicleMathcesRace(vehicle)).ToList();
-        }
 
         private void ShowRaceResults(List<RaceResult> raceResults)
         {

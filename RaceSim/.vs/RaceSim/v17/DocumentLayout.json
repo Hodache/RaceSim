@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\vehicles\\airvehicles\\broom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:vehicles\\airvehicles\\broom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +15,44 @@
       "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\vehicles\\airvehicles\\yagastupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:vehicles\\airvehicles\\yagastupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\vehicles\\groundvehicles\\chickenhut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:vehicles\\groundvehicles\\chickenhut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\races\\raceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:races\\raceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\vehicles\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:vehicles\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\resultswindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:resultswindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\resultswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:resultswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\vehicles\\groundvehicles\\runningboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:vehicles\\groundvehicles\\runningboots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\vehicles\\groundvehicles\\pumpkinchariot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:vehicles\\groundvehicles\\pumpkinchariot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\vehicles\\groundvehicles\\centaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:vehicles\\groundvehicles\\centaur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\vehicles\\groundvehicles\\chickenhut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:vehicles\\groundvehicles\\chickenhut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\vehicles\\airvehicles\\yagastupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:vehicles\\airvehicles\\yagastupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\vehicles\\airvehicles\\flyingship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:vehicles\\airvehicles\\flyingship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\vehicles\\airvehicles\\flyingcarpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:vehicles\\airvehicles\\flyingcarpet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\races\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:races\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\races\\airrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,12 +67,12 @@
       "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:races\\groundrace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\races\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:races\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\races\\raceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:races\\raceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\vehicles\\airvehicles\\broom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:vehicles\\airvehicles\\broom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|c:\\users\\hodac\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\\u043B\u0430\u0431 1\\racesim\\vehicles\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FB98FC-E96C-4C4E-8208-BEBC947E6859}|RaceSim.csproj|solutionrelative:vehicles\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,11 +82,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "RunningBoots.cs",
+              "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\GroundVehicles\\RunningBoots.cs",
+              "RelativeDocumentMoniker": "Vehicles\\GroundVehicles\\RunningBoots.cs",
+              "ToolTip": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\GroundVehicles\\RunningBoots.cs",
+              "RelativeToolTip": "Vehicles\\GroundVehicles\\RunningBoots.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:13:07.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PumpkinChariot.cs",
+              "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\GroundVehicles\\PumpkinChariot.cs",
+              "RelativeDocumentMoniker": "Vehicles\\GroundVehicles\\PumpkinChariot.cs",
+              "ToolTip": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\GroundVehicles\\PumpkinChariot.cs",
+              "RelativeToolTip": "Vehicles\\GroundVehicles\\PumpkinChariot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:13:06.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Centaur.cs",
+              "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\GroundVehicles\\Centaur.cs",
+              "RelativeDocumentMoniker": "Vehicles\\GroundVehicles\\Centaur.cs",
+              "ToolTip": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\GroundVehicles\\Centaur.cs",
+              "RelativeToolTip": "Vehicles\\GroundVehicles\\Centaur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:13:02.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FlyingShip.cs",
+              "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\AirVehicles\\FlyingShip.cs",
+              "RelativeDocumentMoniker": "Vehicles\\AirVehicles\\FlyingShip.cs",
+              "ToolTip": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\AirVehicles\\FlyingShip.cs",
+              "RelativeToolTip": "Vehicles\\AirVehicles\\FlyingShip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:12:17.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlyingCarpet.cs",
+              "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\AirVehicles\\FlyingCarpet.cs",
+              "RelativeDocumentMoniker": "Vehicles\\AirVehicles\\FlyingCarpet.cs",
+              "ToolTip": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\AirVehicles\\FlyingCarpet.cs",
+              "RelativeToolTip": "Vehicles\\AirVehicles\\FlyingCarpet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:12:15.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "YagaStupa.cs",
               "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\AirVehicles\\YagaStupa.cs",
               "RelativeDocumentMoniker": "Vehicles\\AirVehicles\\YagaStupa.cs",
@@ -79,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ChickenHut.cs",
               "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\GroundVehicles\\ChickenHut.cs",
               "RelativeDocumentMoniker": "Vehicles\\GroundVehicles\\ChickenHut.cs",
@@ -92,20 +177,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "RaceResult.cs",
               "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Races\\RaceResult.cs",
               "RelativeDocumentMoniker": "Races\\RaceResult.cs",
               "ToolTip": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Races\\RaceResult.cs",
               "RelativeToolTip": "Races\\RaceResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T13:23:29.779Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ResultsWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\ResultsWindow.xaml.cs",
               "RelativeDocumentMoniker": "ResultsWindow.xaml.cs",
@@ -118,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "ResultsWindow.xaml",
               "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\ResultsWindow.xaml",
               "RelativeDocumentMoniker": "ResultsWindow.xaml",
@@ -130,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "CommonRace.cs",
               "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Races\\CommonRace.cs",
               "RelativeDocumentMoniker": "Races\\CommonRace.cs",
@@ -143,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "GroundRace.cs",
               "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Races\\GroundRace.cs",
               "RelativeDocumentMoniker": "Races\\GroundRace.cs",
@@ -156,19 +241,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Broom.cs",
               "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\AirVehicles\\Broom.cs",
               "RelativeDocumentMoniker": "Vehicles\\AirVehicles\\Broom.cs",
               "ToolTip": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\AirVehicles\\Broom.cs",
               "RelativeToolTip": "Vehicles\\AirVehicles\\Broom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:26:42.388Z"
+              "WhenOpened": "2024-09-24T15:26:42.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "AirRace.cs",
               "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Races\\AirRace.cs",
               "RelativeDocumentMoniker": "Races\\AirRace.cs",
@@ -181,20 +267,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Race.cs",
               "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Races\\Race.cs",
               "RelativeDocumentMoniker": "Races\\Race.cs",
               "ToolTip": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Races\\Race.cs",
               "RelativeToolTip": "Races\\Race.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwC0AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T15:24:42.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -206,20 +292,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAYwFEAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwEsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T15:04:35.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\hodac\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041C\u0430\u0433\u0430 1 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\\u041B\u0430\u0431 1\\RaceSim\\Vehicles\\Vehicle.cs",
               "RelativeDocumentMoniker": "Vehicles\\Vehicle.cs",
@@ -227,8 +313,7 @@
               "RelativeToolTip": "Vehicles\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:13:38.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T15:13:38.509Z"
             }
           ]
         }
